@@ -115,7 +115,7 @@ Predicate se usa en los filtros, hay mas, por ejemplo Function:
   
  Recibe Persona y devuelve String. En la interfaz Function se implementa el metodo apply(T t) con la lambda.
   
-En el ejemplo he creado mi propia interfaz funcional: MapStrategy, que dependiendo del texto que se le mande, trata a la persona con un lambda u otro (realmente es una adaptacion que me he hecho del patron 'strategy' a lambdas)
+En el ejemplo hay una clase MapStrategy, que dependiendo del texto que se le mande, trata a la persona con un lambda (Function) u otro (realmente es una adaptacion que me he hecho del patron 'strategy' a lambdas)
   
 A que mola?
   

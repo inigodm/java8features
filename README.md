@@ -25,9 +25,9 @@ El caso es que voy a describir que son los Streams, asi tendre que explicar los 
 
 Vayamos de abajo arriba:
 
-## Funciones con codigo en las clases? 
+## Funciones con codigo en las interfaces? 
  
- Una nueva funcionalidad de java 8 (la ultima cuando version escribi esto, actualmente se han metido cosas para java 9 y cosicas para java 10) que es, cuando declaras una interfaz, (public Interface Interfaz{...}) puedes hacer a las interfaz implementaciones por defecto para uno o mas metodos (marcados con la palabra reservada default, ej:
+ Una nueva funcionalidad de java 8 (la ultima cuando version escribi esto, actualmente se han metido cosas para java 9 y cosicas para java 10) es que, cuando declaras una interfaz, (public Interface Interfaz{...}) puedes hacer a las interfaz implementaciones por defecto para uno o mas metodos (marcados con la palabra reservada default, ej:
  
          default public String method(){...hace n monton de cosas...}).
  

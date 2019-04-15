@@ -1,5 +1,5 @@
 # java8features
-Clase con lo nuevo de java 8 que hice en su momento por si tenia que recordar algo...
+Clase con lo nuevo de java 8 que hice en su momento por si tenia que explicarselo a alguien... incluso a mi :D. Y si: me va a servir para la charla del curro.
 
 ## STREAMS!!!!
 A ver si adivinas que hace este trozo de codigo:
